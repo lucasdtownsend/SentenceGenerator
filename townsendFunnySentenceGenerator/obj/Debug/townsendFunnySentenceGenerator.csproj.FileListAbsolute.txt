@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\townsendFunnySentenceGenerator\townsendFunnySentenceGenerator\bin\Debug\townsendFunnySentenceGenerator.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\townsendFunnySentenceGenerator\townsendFunnySentenceGenerator\bin\Debug\townsendFunnySentenceGenerator.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\townsendFunnySentenceGenerator\townsendFunnySentenceGenerator\bin\Debug\townsendFunnySentenceGenerator.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\townsendFunnySentenceGenerator\townsendFunnySentenceGenerator\obj\Debug\townsendFunnySentenceGenerator.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\townsendFunnySentenceGenerator\townsendFunnySentenceGenerator\obj\Debug\townsendFunnySentenceGenerator.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\townsendFunnySentenceGenerator\townsendFunnySentenceGenerator\obj\Debug\townsendFunnySentenceGenerator.pdb
